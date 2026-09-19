@@ -25,3 +25,4 @@ An interactive Artificial Intelligence application that recognizes handwritten d
    python digit_recognizer.py
    \`\`\`
 *(Note: The first run will take 1-2 minutes to download the dataset and train the model. Subsequent runs will load instantly).*
+!!!
